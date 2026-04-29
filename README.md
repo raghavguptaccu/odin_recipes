@@ -1,6 +1,6 @@
 # odin_recipes
 
-Odin Recipes
+##Odin Recipes
 
 This project is a simple recipe website built as part of The Odin Project. It will contain a main index page with links to a few recipe pages and will help reinforce the basics of building and structuring a website with HTML.
 
